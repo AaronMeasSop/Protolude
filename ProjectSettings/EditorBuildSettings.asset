@@ -5,8 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_/Scenes/Niveau 1 (Physique).unity
+    guid: 19a4cc1f73b306047b8344a0ca59f224
+  - enabled: 1
+    path: Assets/_/Scenes/Niveau 2 (Vitesse).unity
+    guid: f6120bf9751612c489e4ec7745245646
+  - enabled: 1
+    path: Assets/_/Scenes/Niveau 3 (Saut).unity
+    guid: 01d9d56158a1cf14da937139c218d716
+  - enabled: 1
+    path: Assets/_/Scenes/Jeu Fini.unity
+    guid: 76cd85e4be4bf3246ad59adbca84410b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
